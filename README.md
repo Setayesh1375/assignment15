@@ -12,4 +12,4 @@ The body of the snake is designed in stripes
 
 ### ScreenShots of the Game
 
-![Screen Shot](1.png)
+![Screen Shot](IMG_20240205_162340_750.jpg)
